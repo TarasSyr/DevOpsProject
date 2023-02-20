@@ -1,4 +1,13 @@
 
+Creating ec2 instance on AWS
+
+![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 007](https://user-images.githubusercontent.com/123966763/220108033-f1504ca1-bb41-4343-862a-11d26743f4b9.png)
+![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 008](https://user-images.githubusercontent.com/123966763/220108094-ed4a3605-045d-4893-a5f6-54fc4e92ebeb.png)
+
+Editing inbound security group so i can connect via port 8080(default Jenkins port)
+
+![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 010](https://user-images.githubusercontent.com/123966763/220108395-50ba1c5c-28f0-40a2-80b6-ad3848fec475.png)
+
 Downloading and installing Jenkins
 
 ![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 001](https://user-images.githubusercontent.com/123966763/220107209-5b524c5e-a367-432d-91fe-410eda661771.png)
@@ -14,14 +23,7 @@ Saving key pair on computer
 
 ![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 006](https://user-images.githubusercontent.com/123966763/220107671-98954f89-83b1-45c9-be36-d488ff229ac7.png)
 
-Creating ec2 instance on AWS
 
-![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 007](https://user-images.githubusercontent.com/123966763/220108033-f1504ca1-bb41-4343-862a-11d26743f4b9.png)
-![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 008](https://user-images.githubusercontent.com/123966763/220108094-ed4a3605-045d-4893-a5f6-54fc4e92ebeb.png)
-
-Editing inbound security group so i can connect via port 8080(default Jenkins port)
-
-![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 010](https://user-images.githubusercontent.com/123966763/220108395-50ba1c5c-28f0-40a2-80b6-ad3848fec475.png)
 
 Configuring slave on Jenkins
 
