@@ -51,11 +51,35 @@ Making a simple Jenkins job to check if it's working
 
 Github repository
 
+![image](https://user-images.githubusercontent.com/123966763/220110866-44c683f1-b973-49a3-9c1e-5200aa1f57ea.png)
 
 
 It's working(file index.html is on the GitHub repository)
 
 ![image](https://user-images.githubusercontent.com/123966763/220110460-2aeda7f5-5a17-4e03-8b92-4907b47faef9.png)
+
+Now we do a simple copying from one directory to other via jenkins build steps(execute shell)
+But we have a problem
+
+![image](https://user-images.githubusercontent.com/123966763/220111290-4eab1b3b-da87-4728-9557-3a8ebcb4a22b.png)
+
+AWS wont let user with "jenkins" username access some directories and copy them. The solution is to change sudo rules.
+Changing sudoers file with command **visudo -f /etc/sudoers**
+
+![image](https://user-images.githubusercontent.com/123966763/220111573-4bd2d9f0-6a46-4b1a-8179-142ba6efc77d.png)
+
+Adding **jenkins ALL= NOPASSWD: ALL**
+
+![image](https://user-images.githubusercontent.com/123966763/220111731-f751ec48-1873-42b6-bbf2-3ca523d05d3c.png)
+
+After that save and exit: **wq**
+After that we go on Jenkins page and press build now. And build is successful 
+
+![image](https://user-images.githubusercontent.com/123966763/220111887-88512bde-64c2-4036-8487-8b0ce9a962f6.png)
+
+Test page
+
+![image](https://user-images.githubusercontent.com/123966763/220111955-921efd3e-45ab-40a6-b2ec-8f8a155900cf.png)
 
 
 
