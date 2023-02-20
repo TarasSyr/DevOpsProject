@@ -28,3 +28,11 @@ Configuring slave(ec2) url
 
 ![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 011](https://user-images.githubusercontent.com/123966763/220108512-a02651e7-452b-4a3d-820c-909bc5dfe2fd.png)
 
+Installing Amazon plugins on Jenkins
+
+![image](https://user-images.githubusercontent.com/123966763/220109463-53700a3f-ee6f-4571-aab8-72ca716e3eed.png)
+![image](https://user-images.githubusercontent.com/123966763/220109570-5008b606-1e00-4c55-b7e5-aeb2c3e5c81e.png)
+
+
+
+
