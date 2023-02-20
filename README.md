@@ -33,6 +33,30 @@ Installing Amazon plugins on Jenkins
 ![image](https://user-images.githubusercontent.com/123966763/220109463-53700a3f-ee6f-4571-aab8-72ca716e3eed.png)
 ![image](https://user-images.githubusercontent.com/123966763/220109570-5008b606-1e00-4c55-b7e5-aeb2c3e5c81e.png)
 
+Configuring clouds(slaves) on Jenkins
+
+![image](https://user-images.githubusercontent.com/123966763/220109694-a6d5ee0e-c38d-41fc-a75e-ad519260dcbc.png)
+
+Installing apache server in EC2
+
+![image](https://user-images.githubusercontent.com/123966763/220109895-5d7deb79-971c-4069-8d58-28ff249cd53c.png)
+
+Default test apache page
+
+![image](https://user-images.githubusercontent.com/123966763/220110037-7e0ac9a3-19a8-4af1-98df-52cdacc36993.png)
+
+Making a simple Jenkins job to check if it's working
+
+![image](https://user-images.githubusercontent.com/123966763/220110268-11e415f4-23eb-4527-bab4-1f6c712a1fb7.png)
+
+Github repository
+
+
+
+It's working(file index.html is on the GitHub repository)
+
+![image](https://user-images.githubusercontent.com/123966763/220110460-2aeda7f5-5a17-4e03-8b92-4907b47faef9.png)
+
 
 
 
