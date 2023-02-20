@@ -24,9 +24,7 @@ Saving key pair on computer
 
 ![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 006](https://user-images.githubusercontent.com/123966763/220107671-98954f89-83b1-45c9-be36-d488ff229ac7.png)
 
-
-
-Configuring slave on Jenkins
+Configuring slave(ec2) url
 
 ![Aspose Words 3e80664f-526d-4c76-8f35-b7c041c321d7 011](https://user-images.githubusercontent.com/123966763/220108512-a02651e7-452b-4a3d-820c-909bc5dfe2fd.png)
 
